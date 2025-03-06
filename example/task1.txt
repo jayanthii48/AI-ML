@@ -1,0 +1,181 @@
+task 1:
+
+display : Python is a high level language !!!!!!
+
+diplay using sep : apple*banana*mango*orange
+
+display using end using 2 print statements : welcome to programming class
+
+task 2:
+
+create a variable and stored value 12 
+
+create a variable and stored value orange
+
+create a variable of flower and print that flower name  
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+task 
+
+1) create a string and print that string with type 
+
+2) create a list get collection of fruits 
+	print all fruits 
+	print 4th place fruit
+
+3) create a variable which is stored floating point values, print that variable type
+
+4) create a course variable values are name: , duration: , marks: , staff_name:
+
+		print a staff_name 
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
+Task :
+
+
+get a reg_no , mark1,mark2,mark3,mark4 and calculate average and print regno with average
+
+
+get a list of names and verifies particular name in the list or not 
+
+
+get a 1st person city and 2nd person city ,,,, and compare these two city same or not 
+
+
+get a 1st person savings and 2nd person savings ,,,, and compare which person savings are high 
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Task :
+
+
+1)  user enters a username and password.
+
+If the credentials match predefined values, print "Login Successful!"
+Otherwise, print "Invalid Username or Password."
+
+2)  A movie theater charges different prices based on age:
+
+Below 5 years: Free
+5 - 12 years: $5
+13 - 60 years: $10
+Above 60 years: $7
+
+3) Write a program that calculates the discount for an online shopping cart based on the total amount:
+
+Above 500 → 20% discount
+Between 200 - 500 → 10% discount
+Below 200 → No discount
+
+4) A student can take an online exam only if:
+
+They have registered for the exam
+They have paid the exam fee
+If both conditions are met, check if the camera is ON (for proctoring)
+If all conditions are satisfied, print "You can start the exam"
+Otherwise, print the appropriate reason
+
+5)Passengers can board a flight only if:
+
+They have a valid ticket
+If they have a ticket, check if they have a passport (for international flights)
+If all conditions are met, check if boarding time has started
+If all are satisfied, print "Proceed to boarding"
+Otherwise, print the appropriate restriction message
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+
+valid student print "you can register:" otherwise print "not a student"  
+
+valid student then get a which class and print welcome to class other wise print "you are not allowed"
+
+check student then print ""you are student"" or check staff then print ""you are staff""  
+or check admin then print ""your are admin"" other wise "you are not allowed"
+
+print "this is a schl website"
+print "here you see info about schl"
+here that is valid then also show "your the student of this schl"
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+while loop :
+
+
+print  0 to 100 only even number
+
+print  0 to 100 only odd number suppose number 55 then stop the loop 
+
+print  0 to 1000 only 10 multiples if number 740 skip this number only (try for loop also)
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+create a function that get a mark1,mark2,mark3,mark4 and calculate average print within function
+
+
+
+create a function that get a mark1,mark2,mark3,mark4 and calculate average and return that value to outside total variable 
+
+
+
+get a mark1,mark2,mark3,mark4 and call a marks(mark1,mark2,mark3,mark5) capture that return value in total variable 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
