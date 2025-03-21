@@ -147,7 +147,22 @@ create a function that get a mark1,mark2,mark3,mark4 and calculate average and r
 get a mark1,mark2,mark3,mark4 and call a marks(mark1,mark2,mark3,mark5) capture that return value in total variable 
 
 
+--------------------------------------------------------------------------------------------------------------------------------
 
+Questions:
+
+
+	Create a line plot to show monthly sales (units) over time.
+
+	Create a bar chart showing monthly revenue ($).
+
+	Create a horizontal bar chart to represent customer footfall per month.
+
+	Create a scatter plot to analyze the relationship between sales (units) and revenue ($)
+
+Ensure proper labels, titles, and colors for better visualization
+
+Optionally, add grid lines and legends where necessary
 
 
 
