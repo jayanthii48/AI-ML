@@ -165,7 +165,21 @@ Ensure proper labels, titles, and colors for better visualization
 Optionally, add grid lines and legends where necessary
 
 
+--------------------------------------------------------------------------------------------------------------------
+drop duplicates,subset duplicates drop, unwanted coloumns drop,
 
+replace null values with  mean,median,mode,ffill,bfill
+
+
+VISUALIZATIONS:
+
+	Create Bar chart for clothing and purchase amount with red color
+
+	Scatter chart for age and season
+
+	create pie chart for previous purchase 
+
+	area chart for purchase amount
 
 
 
